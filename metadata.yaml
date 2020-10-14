@@ -1,7 +1,10 @@
 _repo: The-Wonder-Clock-or-four-twenty-marvellous-Tales-being-one-for-each-hour-of-the-day_63383
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: "The Wonder Clock; or, four and twenty marvellous Tales\r\nbeing\
   \ one for each hour of the day"
+covers:
+- cover_type: archival
+  image_path: 63383-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pyle, Howard
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
 description: Illustrated by Howard Pyle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63383#The-Wonder-Clock-or-four-twenty-marvellous-Tales-being-one-for-each-hour-of-the-day
 gutenberg_issued: '2020-10-05'
 gutenberg_type: Text
 identifiers:
